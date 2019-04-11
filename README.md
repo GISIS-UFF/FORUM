@@ -5,7 +5,7 @@ Repositório destinado a discussões relacionados aos projetos desenvolvidos no 
 
 - Utilize a aba [Issues](https://github.com/GISIS-UFF/FORUM/issues) para adicionar perguntas.
   - É possível compartilhar imagens, trechos de códigos, arquivos e entre outros.
-  - Utilize o "@" para mencionar usuários diretamente. Por exemplo @fetim
+  - Utilize o "@" para mencionar usuários diretamente. Por exemplo @username
   
   
   
